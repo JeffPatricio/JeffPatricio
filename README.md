@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; ReactJS | HTML | CSS | JavaScript | Bootstrap | Material UI
 - 💻 &nbsp; React Native | PWA
-- 💻 &nbsp; NodeJS
+- 💻 &nbsp; NodeJS | API REST | GraphQL
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | SQLite
 - 🔧 &nbsp; Git Projects | Trello
 - 🖥 &nbsp; Figma
