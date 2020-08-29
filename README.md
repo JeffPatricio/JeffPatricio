@@ -11,10 +11,11 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS | HTML | CSS | JavaScript | Bootstrap | Material UI
-- 💻 &nbsp; React Native | PWA
-- 💻 &nbsp; NodeJS | API REST | GraphQL
+- 📱  &nbsp; React Native | PWA
+- 🖥  &nbsp; NodeJS
+- ⌨️ &nbsp; API REST | GraphQL
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | SQLite
-- 🔧 &nbsp; Git Projects | Trello
+- 📚 &nbsp; Git Projects | Trello
 - 🖥 &nbsp; Figma
 
 <h3> 🤝🏻 Connect with Me </h3>
