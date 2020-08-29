@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2>Hey there! I'm Jefferson</h2>
 
-<!--
-**JeffPatricio/JeffPatricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👨🏻‍💻 About Me</h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Information Systems Student.
+- 💼 &nbsp; Working as a full stack web developer at [Wlib](https://www.wlib.com.br/).
+- 🌱 &nbsp; Learning more about GraphQL, TypeScript and GoLang.
+- 🎸 &nbsp; Studying and practicing music as hobbies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; ReactJS | HTML | CSS | JavaScript | Bootstrap | Material UI
+- 💻 &nbsp; React Native | PWA
+- 💻 &nbsp; NodeJS
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | SQLite
+- 🔧 &nbsp; Git Projects | Trello
+- 🖥 &nbsp; Figma
+
+<br/>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+* [LinkedIn](https://www.linkedin.com/in/jefferson-patr%C3%ADcio-03a17b180/)
