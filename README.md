@@ -16,7 +16,7 @@
 - ⌨️ &nbsp; API REST | GraphQL
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | SQLite
 - 📚 &nbsp; Git Projects | Trello
-- 🖥 &nbsp; Figma
+- 📝 &nbsp; Figma
 
 <h3> 🤝🏻 Connect with Me </h3>
 
