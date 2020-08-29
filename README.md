@@ -17,8 +17,6 @@
 - 🔧 &nbsp; Git Projects | Trello
 - 🖥 &nbsp; Figma
 
-<br/>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 * [LinkedIn](https://www.linkedin.com/in/jefferson-patr%C3%ADcio-03a17b180/)
