@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Information Systems Student.
-- 💼 &nbsp; Working as a full stack web developer at [Wlib](https://www.wlib.com.br/).
+- 💼 &nbsp; Working as a Tech Lead at [Wlib](https://www.wlib.com.br/).
 - 🌱 &nbsp; Learning more about GraphQL, TypeScript and GoLang.
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
