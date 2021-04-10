@@ -5,14 +5,14 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Information Systems Student.
 - 💼 &nbsp; Working as a Tech Lead at [Wlib](https://www.wlib.com.br/).
-- 🌱 &nbsp; Learning more about GraphQL, TypeScript and GoLang.
+- 🌱 &nbsp; Learning more about GoLang.
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS | HTML | CSS | JavaScript | Bootstrap | Material UI
 - 📱  &nbsp; React Native | PWA
-- 🖥  &nbsp; NodeJS | Golang
+- 🖥  &nbsp; NodeJS | Golang | TypeScript
 - ⌨️ &nbsp; API REST | GraphQL
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | SQLite
 - 📚 &nbsp; Git Projects | Trello
