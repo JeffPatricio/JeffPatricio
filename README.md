@@ -4,19 +4,14 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Information Systems Student.
-- 💼 &nbsp; Working as a Tech Lead at [Wlib](https://www.wlib.com.br/).
-- 🌱 &nbsp; Learning more about GoLang.
+- 💼 &nbsp; Working as a React Native Developer at [Vuca Solution](http://www.vucasolution.com.br/).
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
 <h3>🛠  Tech Stack</h3>
 
-- 💻 &nbsp; ReactJS | HTML | CSS | JavaScript | Bootstrap | Material UI
-- 📱  &nbsp; React Native | PWA
-- 🖥  &nbsp; NodeJS | Golang | TypeScript
-- ⌨️ &nbsp; API REST | GraphQL
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | SQLite
-- 📚 &nbsp; Git Projects | Trello
-- 📝 &nbsp; Figma
+- 💻 &nbsp; ReactJS | NextJS
+- 📱  &nbsp; React Native
+- 🖥  &nbsp; NodeJS | NestJS | Typescript
 
 <h3> 🤝🏻  Connect with Me </h3>
 
