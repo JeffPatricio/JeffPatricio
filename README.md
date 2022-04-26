@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Information Systems Student.
-- 💼 &nbsp; Working as a React Native Developer at [Vuca Solution](http://www.vucasolution.com.br/).
+- 💼 &nbsp; Working as a React Native Developer at [200DEV](https://200dev.com/).
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
 <h3>🛠  Tech Stack</h3>
